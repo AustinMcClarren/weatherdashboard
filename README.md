@@ -33,8 +33,8 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 ## Mock-Up
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./Assets/../screenshotdashboard.png)
+![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./assets/screenshotdashboard.png)
 ## SCREEN SHOTS
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./Assets/../06-server-side-apis-homework-demo.png)
+![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](/assets/06-server-side-apis-homework-demo.png)
 ## GIT HUB PAGES LINK
 https://austinmcclarren.github.io/weatherdashboard/
